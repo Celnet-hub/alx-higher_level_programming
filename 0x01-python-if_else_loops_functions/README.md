@@ -3,3 +3,7 @@
 ## 0-positive_or_negative.py
 
 - Checks if a number is either positive or negative or zero then prints the result.
+
+## 1-last_digit.py
+
+- gets the last digit of a number.
