@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 # print out ascii alphabet in lowercase
 for i in range(97, 123):
     print(chr(i), end='')
