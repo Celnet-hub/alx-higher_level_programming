@@ -7,3 +7,7 @@
 ## 1-last_digit.py
 
 - gets the last digit of a number.
+
+## 2-print_alphabet.py
+
+- prints the ASCII alphabet, in lowercase, not followed by a new line.
